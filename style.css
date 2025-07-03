@@ -4,4 +4,10 @@ h1{
 
 #header1{
     color: red;
+    font-size: 12px;
+    text-decoration: underline;
+    /*text-decoration: underline red solid 5px;*/ 
+    font-family: "Courier New", monospace;
+    text-transform: uppercase;
 }
+
